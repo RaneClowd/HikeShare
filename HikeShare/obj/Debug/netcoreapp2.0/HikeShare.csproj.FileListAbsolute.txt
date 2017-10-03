@@ -1,0 +1,12 @@
+C:\Users\Mayra\source\repos\HikeShare\HikeShare\bin\Debug\netcoreapp2.0\HikeShare.deps.json
+C:\Users\Mayra\source\repos\HikeShare\HikeShare\bin\Debug\netcoreapp2.0\HikeShare.runtimeconfig.json
+C:\Users\Mayra\source\repos\HikeShare\HikeShare\bin\Debug\netcoreapp2.0\HikeShare.runtimeconfig.dev.json
+C:\Users\Mayra\source\repos\HikeShare\HikeShare\bin\Debug\netcoreapp2.0\HikeShare.dll
+C:\Users\Mayra\source\repos\HikeShare\HikeShare\bin\Debug\netcoreapp2.0\HikeShare.pdb
+C:\Users\Mayra\source\repos\HikeShare\HikeShare\obj\Debug\netcoreapp2.0\HikeShare.csprojResolveAssemblyReference.cache
+C:\Users\Mayra\source\repos\HikeShare\HikeShare\obj\Debug\netcoreapp2.0\HikeShare.csproj.CoreCompileInputs.cache
+C:\Users\Mayra\source\repos\HikeShare\HikeShare\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Mayra\source\repos\HikeShare\HikeShare\obj\Debug\netcoreapp2.0\HikeShare.AssemblyInfoInputs.cache
+C:\Users\Mayra\source\repos\HikeShare\HikeShare\obj\Debug\netcoreapp2.0\HikeShare.AssemblyInfo.cs
+C:\Users\Mayra\source\repos\HikeShare\HikeShare\obj\Debug\netcoreapp2.0\HikeShare.dll
+C:\Users\Mayra\source\repos\HikeShare\HikeShare\obj\Debug\netcoreapp2.0\HikeShare.pdb
